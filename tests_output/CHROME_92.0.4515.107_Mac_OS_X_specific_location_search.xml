@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="specific_location_search"
+    errors="0" failures="0" hostname="" id="" package="specific_location_search" skipped="0"
+    tests="1" time="7.647" timestamp="">
+  
+    <testcase name="Property Pal specific location search" classname="specific_location_search" time="7.647" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

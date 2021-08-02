@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="my_location"
+    errors="0" failures="0" hostname="" id="" package="my_location" skipped="0"
+    tests="1" time="8.334" timestamp="">
+  
+    <testcase name="Property Pal My Location Check" classname="my_location" time="8.334" assertions="4">
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>
